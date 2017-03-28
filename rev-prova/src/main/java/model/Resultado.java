@@ -8,11 +8,11 @@ public class Resultado {
 		this.res = res;
 	}
 
-	public double getRes() {
+	public double getResultado() {
 		return res;
 	}
 
-	public void setRes(double res) {
+	public void setResultado(double res) {
 		this.res = res;
 	}
 	
